@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="21px" viewBox="0 0 27 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>bar-chart-2328_619bbad9-9d49-4b1c-b0fb-6e29fc18df1b</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Siena" transform="translate(-1347.000000, -1224.000000)" stroke="#FFFFFF" stroke-width="1.5">
+            <g id="Features" transform="translate(0.000000, 910.000000)">
+                <g id="Content" transform="translate(405.000000, 290.000000)">
+                    <g id="3" transform="translate(800.000000, 0.000000)">
+                        <g id="Icon" transform="translate(120.000000, 0.000000)">
+                            <g id="bar-chart-2328_619bbad9-9d49-4b1c-b0fb-6e29fc18df1b" transform="translate(23.000000, 25.000000)">
+                                <polyline id="Shape" points="21 18.3333333 21 0 24.3333333 0 24.3333333 18.3333333"></polyline>
+                                <polyline id="Shape" points="14 19 14 9 17.3333333 9 17.3333333 19"></polyline>
+                                <polyline id="Shape" points="8 18.3333333 8 5 11.3333333 5 11.3333333 18.3333333"></polyline>
+                                <polyline id="Shape" points="1 19 1 14 4.33333333 14 4.33333333 19"></polyline>
+                                <path d="M25,19 L0,19" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
